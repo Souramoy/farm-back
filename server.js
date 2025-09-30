@@ -74,7 +74,7 @@ function getDefaultData(file) {
         id: 1,
         title: 'Animal Health Basics',
         type: 'video',
-        description: 'Learn the fundamentals of animal health monitoring',
+        description: 'Learn the fundamentals  animal health monitoring',
         content: 'Basic animal health principles and early disease detection.',
         thumbnail: 'https://images.pexels.com/photos/422218/pexels-photo-422218.jpeg'
       },
